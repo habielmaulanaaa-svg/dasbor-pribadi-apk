@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dasbor Pribadi</string>
+    <string name="widget_balance_title">Kartu Saldo Dasbor (4x2)</string>
+    <string name="widget_balance_desc">Pantau Total Saldo, Pemasukan, Pengeluaran, dan Tugas Aktif dari Layar Utama.</string>
+    <string name="widget_quick_action_title">Bar Aksi Cepat Dasbor (4x1)</string>
+    <string name="widget_quick_action_desc">Pintasan cepat untuk mencatat Pengeluaran, Pemasukan, Tugas, dan Impian.</string>
+</resources>

@@ -1,0 +1,15 @@
+{
+  "name": "dasbor-pribadi-premium",
+  "version": "1.3.0",
+  "private": true,
+  "description": "Dasbor Pribadi - Aplikasi manajemen keuangan, tabungan, impian, dan produktivitas pribadi offline-first dengan sinkronisasi cloud.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node --check server.js && node --check native-bridge-logic.js",
+    "lint": "node --check server.js && node --check native-bridge-logic.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
